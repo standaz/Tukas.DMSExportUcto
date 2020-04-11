@@ -87,11 +87,11 @@
     <Compile Include="DMSExport.cs" />
     <Compile Include="DMSExportConst.cs" />
     <Compile Include="Extensions\ExceptionExtensions.cs" />
-    <Compile Include="Log\EventLogData.cs" />
-    <Compile Include="Log\EventLogger.cs" />
-    <Compile Include="Log\ExportLogData.cs" />
-    <Compile Include="Log\ExportLogger.cs" />
-    <Compile Include="Log\LogState.cs" />
+    <Compile Include="Logging\EventLogData.cs" />
+    <Compile Include="Logging\EventLogger.cs" />
+    <Compile Include="Logging\ExportLogData.cs" />
+    <Compile Include="Logging\ExportLogger.cs" />
+    <Compile Include="Logging\LogState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Security\Cipher.cs" />
